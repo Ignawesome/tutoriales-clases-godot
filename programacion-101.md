@@ -71,7 +71,7 @@ var variable_vacía = null # Null va a dar error al querer usarlo si no se tiene
 
 Se pueden realizar operaciones sobre estos valores.
 El VAR solo se necesita la primera vez, que es la **declaración**
-El resto de las veces cuando hay un simbolo igual (=) se le dice asignación
+El resto de las veces cuando hay un simbolo igual (=) son **asignaciones**
 
 ```gdscript
 var variable_flexible = 2 # Declaración
