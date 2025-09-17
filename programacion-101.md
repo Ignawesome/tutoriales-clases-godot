@@ -119,6 +119,8 @@ var pokemon: Array[String] = ["Bulbasaur", "Ivysaur", "Venusaur", "Squirtle", "W
 | 2      | "Venusaur"  |
 | 3      | "Squirtle"  |
 | 4      | "Wartortle" |
+
+
 La forma de solicitar el valor es el siguiente:
 
 ```gdscript
